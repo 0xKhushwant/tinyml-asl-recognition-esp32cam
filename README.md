@@ -89,6 +89,6 @@ Real-time American Sign Language (ASL) recognition system using ESP32-CAM and Te
 
 ## Author
 
-Khushwant Arya
+Khushwant
 
 GitHub: https://github.com/0xKhushwant

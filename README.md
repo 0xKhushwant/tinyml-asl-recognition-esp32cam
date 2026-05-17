@@ -52,7 +52,7 @@ Real-time American Sign Language (ASL) recognition system using ESP32-CAM and Te
 ## Screenshots
 
 ### Web Interface
-![Web Interface](images/output1.jpg)
+![Web Interface](images/output1.png)
 
 ### Hardware Setup
 ![Hardware Setup](images/setup.jpg)
